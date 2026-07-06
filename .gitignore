@@ -1,0 +1,30 @@
+# Build directories
+build/
+bin/
+out/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mock process folder (generated dynamically at runtime)
+.minitop_proc/
+
+# Compiled binaries and libraries
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+cmake_install.cmake
+Makefile
